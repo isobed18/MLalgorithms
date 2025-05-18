@@ -1,0 +1,12 @@
+mlenv/
+venv/
+
+leetcode-pandas/
+
+.ipynb_checkpoints/
+
+.idea/
+.vscode/
+
+*.pyc
+__pycache__/
